@@ -23,7 +23,7 @@ icons:
     title: Connectors Logo
     size: 32x32
     type: image/svg+xml
-policy_templates_behavior: individual_policies
+# policy_templates_behavior: individual_policies
 policy_templates:
   - name: github
     title: GitHub & GitHub Enterprise Server Connector
